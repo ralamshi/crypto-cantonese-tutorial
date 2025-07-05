@@ -1,3 +1,14 @@
-# crypto-cantonese-tutorial
-一個專為華語/廣東話新手而設的加密貨幣互動教學網站。由淺入深，涵蓋區塊鏈基礎、錢包安全、Solana 生態、Jupiter 交易及風險管理等核心知識。內置常用工具箱和術語表，助你輕鬆踏出 Web3 世界的第一步。
-An interactive cryptocurrency tutorial for Cantonese-speaking beginners. It covers core concepts from blockchain basics, wallet security, the Solana ecosystem, and risk management. Features a built-in toolbox and glossary to help new users start their Web3 journey.
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
